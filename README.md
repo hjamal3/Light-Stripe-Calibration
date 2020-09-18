@@ -6,3 +6,6 @@
 - Images should contain the laser over a fully visible checkerboard.  
 
 ![Image](sample.jpg)
+  
+Implementation based off:  
+Zhou, F., & Zhang, G. (2005). Complete calibration of a structured light stripe vision sensor through planar target of unknown orientations. Image and Vision Computing, 23(1), 59-67.
