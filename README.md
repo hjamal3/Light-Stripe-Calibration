@@ -1,5 +1,8 @@
 # Light-Stripe-Calibration
 
-To run calibration: Insert all of your images in the images folder. Need to change internal parameters of file to fit checkerboard size and dimensions in calibrate.py.   To run: python calibrate.py. Images should contain the laser over a fully visible checkerboard.
+- Insert all of your images in the 'images' folder.  
+- Change internal parameters of file to fit checkerboard size and dimensions in calibrate.py. Can change color between red or green and orientation.  
+- python calibrate.py.  
+- Images should contain the laser over a fully visible checkerboard.  
 
 ![Image](sample.jpg)
