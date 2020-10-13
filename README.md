@@ -1,5 +1,7 @@
 # Light-Stripe-Calibration
 
+Program to calibrate planar light stripes using a camera calibration checkerboard!
+
 - Insert all of your images in the 'images' folder.  
 - Change internal parameters of file to fit checkerboard size and dimensions in calibrate.py. Can change color between red or green and orientation.  
 - To run: python calibrate.py.  
